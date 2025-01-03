@@ -53,5 +53,6 @@ The **Radiation Sphere System** is a portable Unity package that simulates a cus
 ## Notes
 - The **Red Haze Panel** must have **Raycast Target** unchecked in the Image component.
 - Material Compatible with Unity's **Built-In Render Pipeline** or **URP**.
+- Mixed Reality Toolkit for Unity: https://github.com/microsoft/MixedRealityToolkit-Unity/blob/main/README.md
 
 ---
